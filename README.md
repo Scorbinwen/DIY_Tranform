@@ -12,7 +12,7 @@ Refer to Transformation.py.
 ## Run the transformation
 Example:
 ```
-# Define transform operations
+# Define transform operations(i.e. Config)
 tfmDict = dict(
     Rotate= dict(degree=5)
 )
